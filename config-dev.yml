@@ -1,1 +1,3 @@
 
+config:
+  info: "information for springcloud demo version=1"
